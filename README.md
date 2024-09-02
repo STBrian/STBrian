@@ -1,5 +1,9 @@
 ## Hi there 👋
+Hi, I'm just a person who likes to work on his personal projects from time to time. I'm currently doing MC3DS related projects, feel free to check out some of my projects, I recommend the ones in the Pinned section.
 
+I don't know what else to put here, but while I think of something I'll put the following graphs that looks nice and are informative.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=STBrian&theme=codeSTACKr)](https://github.com/STBrian)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=STBrian&layout=compact&theme=codeSTACKr)](https://github.com/STBrian)
 <!--
 **STBrian/STBrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

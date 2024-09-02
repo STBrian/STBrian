@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi, I'm just a person who likes to work on his personal projects from time to time. I'm currently doing MC3DS related projects, feel free to check out some of my projects, I recommend the ones in the Pinned section.
+Hi, I'm just a person who likes to work on his personal projects from time to time. I'm currently doing MC3DS related projects, feel free to check out some of them, I recommend the ones in the Pinned section.
 
 I don't know what else to put here, but while I think of something I'll put the following graphs that looks nice.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=STBrian&theme=codeSTACKr)](https://github.com/STBrian)
